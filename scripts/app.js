@@ -143,7 +143,7 @@ async function renderThirdChart() {
         height = 400 - margin.top - margin.bottom;
     
     // append the svg object to the body of the page
-    var svg = d3.select("#my_dataviz")
+    var svg = d3.select("#chart")
       .append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
