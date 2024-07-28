@@ -1,33 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Violin Plot</title>
-  <style>
-    .tooltip {
-      position: absolute;
-      text-align: center;
-      padding: 8px;
-      font-size: 12px;
-      background: lightsteelblue;
-      border: 0px;
-      border-radius: 8px;
-      pointer-events: none;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <title>Violin Chart</title>
+    
+    <link rel="stylesheet" href="styles/app.css">
+    <style>
+        .tooltip {
+            position: absolute;
+            text-align: center;
+            width: 100px;
+            height: auto;
+            padding: 10px;
+            font: 12px sans-serif;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+        }
+    </style>
 </head>
 <body onload='renderThirdChart()'>
-  <!-- Create a div where the graph will take place -->
-  <div id="my_dataviz"></div>
+<div id="chart"></div>
 
-  <!-- Load d3.js and plugin for color scale -->
-  <script src="https://d3js.org/d3.v6.min.js"></script>
-  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
-  <script src="scripts/app.js"></script>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="scripts/app.js"></script>
 
-    <p>
+<p>
     <a class="btn btn-primary btn-s" href="scene2.html" role="button">Previous</a>
-    </p>
+</p>
 </body>
 </html>
