@@ -1,0 +1,585 @@
+﻿Discrete Score,Genre,IMDB Score (bin),Language,Premiere,Runtime (bin),Simplified Genre,Title,IMDB Score,percent of good,Premiere Month,Premiere Year,Runtime
+low,Documentary,2.0,English/Japanese,8/5/2019,47,documentary,Enter the Anime,2.5,1,8,2019,58
+low,Thriller,2.5,Spanish,8/21/2020,70,thriller,Dark Forces,2.6,1,8,2020,81
+low,Science fiction/Drama,2.5,Italian,12/26/2019,70,drama,The App,2.6,1,12,2019,79
+low,Horror thriller,3.0,English,1/19/2018,94,thriller,The Open House,3.2,1,1,2018,94
+low,Mystery,3.0,Hindi,10/30/2020,82,other,Kaali Khuhi,3.4,1,10,2020,90
+low,Action,3.0,Hindi,11/1/2019,140,action,Drive,3.5,1,11,2019,147
+low,Comedy,3.5,Turkish,12/4/2020,105,comedy,Leyla Everlasting,3.7,1,12,2020,112
+low,Heist film/Thriller,3.5,English,6/5/2020,140,thriller,The Last Days of American Crime,3.7,1,6,2020,149
+low,Musical/Western/Fantasy,3.5,English,3/23/2018,70,western,Paradox,3.9,1,3,2018,73
+low,Comedy,4.0,Hindi,5/18/2021,129,comedy,Sardar Ka Grandson,4.1,1,5,2021,139
+low,Documentary,4.0,English,4/22/2021,47,documentary,Searching for Sheela,4.1,1,4,2021,58
+low,Drama,4.0,Korean,11/27/2020,105,drama,The Call,4.1,1,11,2020,112
+low,Romantic comedy,4.0,Indonesian,9/18/2020,94,romantic,Whipped,4.1,1,9,2020,97
+low,Action comedy,4.0,Malay,10/1/2020,94,comedy,All Because of You,4.2,1,10,2020,101
+low,Thriller,4.0,English,11/22/2016,82,thriller,Mercy,4.2,1,11,2016,90
+low,Documentary,4.0,Spanish,12/19/2019,23,documentary,After the Raid,4.3,1,12,2019,25
+low,Horror anthology,4.0,Hindi,1/1/2020,140,horror,Ghost Stories,4.3,1,1,2020,144
+low,Political thriller,4.0,English,2/21/2020,105,thriller,The Last Thing He Wanted,4.3,1,2,2020,115
+low,Comedy,4.0,Korean,1/1/2021,94,comedy,What Happened to Mr. Cha?,4.3,1,1,2021,102
+low,Horror thriller,4.0,English,8/25/2017,94,thriller,Death Note,4.4,1,8,2017,100
+low,Documentary,4.0,English,9/13/2019,58,documentary,"Hello Privilege. It's Me, Chelsea",4.4,1,9,2019,64
+low,Thriller,4.0,English,7/18/2019,94,thriller,Secret Obsession,4.4,1,7,2019,97
+low,Comedy,4.0,English,8/16/2019,94,comedy,Sextuplets,4.4,1,8,2019,99
+low,Thriller,4.0,Hindi,2/26/2021,117,thriller,The Girl on the Train,4.4,1,2,2021,120
+low,Superhero-Comedy,4.0,English,4/9/2021,94,comedy,Thunder Force,4.4,1,4,2021,105
+low,Thriller,4.0,English,7/16/2020,82,thriller,Fatal Affair,4.5,1,7,2020,89
+low,Romantic comedy,4.0,Dutch,4/2/2021,94,romantic,Just Say Yes,4.5,1,4,2021,97
+low,Comedy,4.0,English,7/31/2020,105,comedy,Seriously Single,4.5,1,7,2020,107
+low,Comedy,4.0,French,2/10/2021,94,comedy,The Misadventures of Hedi and Cokeman,4.5,1,2,2021,99
+low,Comedy,4.5,Italian,12/7/2018,94,comedy,5 Star Christmas,4.6,1,12,2018,95
+low,Documentary,4.5,English/Spanish,5/24/2019,35,documentary,After Maria,4.6,1,5,2019,37
+low,Horror,4.5,English,10/28/2016,82,horror,I Am the Pretty Thing That Lives in the House,4.6,1,10,2016,89
+low,Romance drama,4.5,French,2/22/2019,82,drama,Paris Is Us,4.6,1,2,2019,83
+low,Comedy,4.5,Portuguese,12/3/2019,35,comedy,Porta dos Fundos: The First Temptation of Christ,4.6,1,12,2019,46
+low,Horror,4.5,English,10/25/2019,82,horror,Rattlesnake,4.6,1,10,2019,85
+low,Comedy,4.5,Italian,7/15/2020,82,comedy,The Players,4.6,1,7,2020,88
+low,Documentary,4.5,French,7/14/2020,82,documentary,We Are One,4.6,1,7,2020,86
+low,Drama,4.5,Filipino,11/30/2020,94,drama,Finding Agnes,4.7,1,11,2020,105
+low,Science fiction/Drama,4.5,English,1/18/2019,94,drama,IO,4.7,1,1,2019,95
+low,Action,4.5,French,3/5/2021,70,action,Sentinelle,4.7,1,3,2021,80
+low,Anime / Short,4.5,English,4/2/2020,0,animation,Sol Levante,4.7,1,4,2020,4
+low,Drama,4.5,Italian,10/2/2020,82,drama,The Binding,4.7,1,10,2020,93
+low,Superhero,4.5,English,12/25/2020,94,other,We Can Be Heroes,4.7,1,12,2020,100
+low,Thriller,4.5,German,12/4/2020,105,thriller,Christmas Crossfire,4.8,1,12,2020,106
+low,Heist,4.5,English,1/6/2017,94,other,Coin Heist,4.8,1,1,2017,97
+low,Thriller,4.5,Hindi,5/1/2020,105,thriller,Mrs. Serial Killer,4.8,1,5,2020,106
+low,Horror,4.5,Polish,10/28/2020,94,horror,Nobody Sleeps in the Woods Tonight,4.8,1,10,2020,103
+low,Comedy,4.5,English,1/20/2017,70,comedy,Take the 10,4.8,1,1,2017,80
+low,Comedy,4.5,English,4/10/2020,94,comedy,The Main Event,4.8,1,4,2020,101
+low,Western,4.5,English,12/11/2015,117,western,The Ridiculous 6,4.8,1,12,2015,119
+low,Action,4.5,French,4/17/2020,70,action,Earth and Blood,4.9,1,4,2020,80
+low,Animation/Superhero,4.5,English,8/14/2020,82,animation,Fearless,4.9,1,8,2020,89
+low,Family film,4.5,English,11/28/2019,94,family,Holiday Rush,4.9,1,11,2019,94
+low,Drama,4.5,Spanish,10/30/2020,82,drama,The Day of the Lord,4.9,1,10,2020,93
+low,Comedy,4.5,Portuguese,1/23/2020,94,comedy,Airplane Mode,5,1,1,2020,96
+low,Action-thriller,4.5,English,7/13/2018,105,thriller,How It Ends,5,1,7,2018,113
+low,Drama,4.5,Indonesian,10/15/2020,82,drama,Love Like the Falling Rain,5,1,10,2020,86
+low,Thriller,4.5,English,7/15/2016,94,thriller,Rebirth,5,1,7,2016,100
+low,Romantic comedy,4.5,Polish,2/11/2021,94,romantic,Squared Love,5,1,2,2021,102
+average,Horror,5.0,Norwegian,10/22/2020,82,horror,Cadaver,5.1,1,10,2020,86
+average,Thriller,5.0,English,1/13/2017,94,thriller,Clinical,5.1,1,1,2017,104
+average,Action comedy,5.0,English,4/3/2020,82,comedy,Coffee & Kareem,5.1,1,4,2020,88
+average,Teen comedy-drama,5.0,English,4/20/2018,94,drama,Dude,5.1,1,4,2018,97
+average,Romantic drama,5.0,Indonesian,2/25/2021,94,drama,Geez & Ann,5.1,1,2,2021,105
+average,Animation,5.0,English,7/23/2020,82,animation,The Larva Island Movie,5.1,1,7,2020,90
+average,Comedy,5.0,English,9/8/2017,94,comedy,#REALITYHIGH,5.2,1,9,2017,99
+average,Aftershow / Interview,5.0,English,8/21/2019,0,variety,American Factory: A Conversation with the Obamas,5.2,1,8,2019,10
+average,Romantic comedy,5.0,English,7/3/2020,105,romantic,Desperados,5.2,1,7,2020,106
+average,Christmas musical,5.0,English,11/22/2020,94,musical,Dolly Parton's Christmas on the Square,5.2,1,11,2020,98
+average,Comedy,5.0,English,7/20/2018,94,comedy,Father of the Year,5.2,1,7,2018,94
+average,Drama,5.0,Marathi,2/22/2019,105,drama,Firebrand,5.2,1,2,2019,112
+average,Horror,5.0,Thai,5/26/2021,117,horror,Ghost Lab,5.2,1,5,2021,117
+average,Comedy,5.0,English,2/14/2017,58,comedy,Girlfriend's Day,5.2,1,2,2017,70
+average,Comedy,5.0,English,5/5/2017,70,comedy,Handsome: A Netflix Mystery Movie,5.2,1,5,2017,81
+average,Comedy,5.0,English,10/7/2020,94,comedy,Hubie Halloween,5.2,1,10,2020,103
+average,Comedy,5.0,English,5/25/2018,94,comedy,Ibiza,5.2,1,5,2018,94
+average,Science fiction adventure,5.0,English,5/24/2019,94,science fiction,Rim of the World,5.2,1,5,2019,98
+average,Comedy,5.0,English,4/14/2017,129,comedy,Sandy Wexler,5.2,1,4,2017,131
+average,Science fiction,5.0,English,5/17/2019,82,science fiction,See You Yesterday,5.2,1,5,2019,87
+average,Variety show,5.0,English,5/14/2019,58,variety,Still Laugh-In: The Stars Celebrate,5.2,1,5,2019,60
+average,Documentary,5.0,English,2/5/2021,105,documentary,"Strip Down, Rise Up",5.2,1,2,2021,112
+average,Comedy-drama,5.0,English,9/13/2019,94,drama,Tall Girl,5.2,1,9,2019,102
+average,Drama,5.0,Italian,11/27/2020,94,drama,The Beast,5.2,1,11,2020,99
+average,Comedy,5.0,English,4/27/2018,105,comedy,The Week Of,5.2,1,4,2018,116
+average,Romantic comedy,5.0,English,11/30/2018,82,romantic,A Christmas Prince: The Royal Wedding,5.3,1,11,2018,92
+average,Comedy,5.0,French,8/30/2019,82,comedy,Back to School,5.3,1,8,2019,83
+average,Thriller,5.0,English,4/30/2020,94,thriller,Dangerous Lies,5.3,1,4,2020,97
+average,Drama,5.0,Hindi,8/12/2020,105,drama,Gunjan Saxena: The Kargil Girl,5.3,1,8,2020,112
+average,Thriller,5.0,Spanish,5/28/2020,105,thriller,Intuition,5.3,1,5,2020,116
+average,Thriller,5.0,French,9/7/2018,94,thriller,The Most Assassinated Woman in the World,5.3,1,9,2018,102
+average,Horror,5.0,English,4/29/2021,117,horror,Things Heard & Seen,5.3,1,4,2021,121
+average,Romantic comedy,5.0,French,6/24/2018,94,romantic,"To Each, Her Own",5.3,1,6,2018,95
+average,Drama,5.0,Spanish,4/12/2019,82,drama,Who Would You Take to a Deserted Island?,5.3,1,4,2019,93
+average,Drama,5.0,English,8/26/2016,82,drama,XOXO,5.3,1,8,2016,92
+average,Comedy/Fantasy/Family,5.0,English,10/15/2020,94,comedy,A Babysitter's Guide to Monster Hunting,5.4,1,10,2020,98
+average,Romantic comedy,5.0,English,12/5/2019,82,romantic,A Christmas Prince: The Royal Baby,5.4,1,12,2019,85
+average,Comedy,5.0,Spanish,5/3/2019,70,comedy,Despite Everything,5.4,1,5,2019,78
+average,Drama,5.0,Hindi,9/18/2020,117,drama,Dolly Kitty and Those Twinkling Stars,5.4,1,9,2020,120
+average,Supernatural drama,5.0,German,9/2/2020,82,drama,Freaks: You're One of Us,5.4,1,9,2020,92
+average,Action/Comedy,5.0,English,3/23/2018,94,comedy,"Game Over, Man!",5.4,1,3,2018,101
+average,Thriller,5.0,Hindi,3/6/2020,117,thriller,Guilty,5.4,1,3,2020,119
+average,Horror,5.0,English,10/4/2019,94,horror,In the Tall Grass,5.4,1,10,2019,101
+average,Drama,5.0,French,4/2/2021,105,drama,Madame Claude,5.4,1,4,2021,112
+average,Comedy,5.0,English,8/11/2017,94,comedy,Naked,5.4,1,8,2017,96
+average,Action/Science fiction,5.0,English,1/15/2021,105,science fiction,Outside the Wire,5.4,1,1,2021,114
+average,Romantic comedy,5.0,English,11/19/2020,94,romantic,The Princess Switch: Switched Again,5.4,1,11,2020,97
+average,Romantic teenage drama,5.0,Italian,7/1/2020,94,drama,Under the Riccione Sun,5.4,1,7,2020,101
+average,Comedy / Musical,5.0,English,12/4/2015,47,comedy,A Very Murray Christmas,5.5,1,12,2015,56
+average,Musical,5.0,English,10/26/2018,94,musical,Been So Long,5.5,1,10,2018,100
+average,Thriller,5.0,Filipino,12/1/2019,94,thriller,Dead Kids,5.5,1,12,2019,94
+average,Comedy,5.0,Portuguese,4/28/2021,94,comedy,Get the Grift,5.5,1,4,2021,94
+average,Documentary,5.0,English,,12,documentary,Ghosts of Sugar Land,5.5,1,,,21
+average,Comedy,5.0,Hindi,11/15/2019,94,comedy,House Arrest,5.5,1,11,2019,104
+average,Variety show,5.0,English,2/8/2019,58,variety,Kevin Hart's Guide to Black History,5.5,1,2,2019,63
+average,Romantic comedy,5.0,English,4/10/2020,94,romantic,Love Wedding Repeat,5.5,1,4,2020,100
+average,Science fiction/Mystery,5.0,English,2/23/2018,117,science fiction,Mute,5.5,1,2,2018,126
+average,Crime drama,5.0,English,10/2/2020,105,drama,Òlòt?ré,5.5,1,10,2020,106
+average,Thriller,5.0,Swedish,2/11/2021,82,thriller,Red Dot,5.5,1,2,2021,86
+average,Psychological thriller drama,5.0,Japanese,4/15/2021,140,drama,Ride or Die,5.5,1,4,2021,142
+average,Comedy,5.0,English,1/19/2018,105,comedy,Step Sisters,5.5,1,1,2018,108
+average,Science fiction,5.0,English,2/4/2018,94,science fiction,The Cloverfield Paradox,5.5,1,2,2018,102
+average,Romantic comedy,5.0,English,11/21/2019,82,romantic,The Knight Before Christmas,5.5,1,11,2019,92
+average,Adventure/Comedy,5.0,English,7/6/2018,82,comedy,The Legacy of a Whitetail Deer Hunter,5.5,1,7,2018,83
+average,Black comedy,5.0,English,8/10/2018,94,comedy,The Package,5.5,1,8,2018,94
+average,Comedy,5.0,English,4/5/2019,82,comedy,Unicorn Store,5.5,1,4,2019,92
+average,Comedy,5.0,English,5/10/2019,94,comedy,Wine Country,5.5,1,5,2019,103
+average,Black comedy,5.5,Spanish/Basque,10/12/2017,82,comedy,Bomb Scared,5.6,1,10,2017,89
+average,Comedy,5.5,English,7/7/2016,94,comedy,Brahman Naman,5.6,1,7,2016,95
+average,Comedy-drama,5.5,Portuguese,1/15/2021,94,drama,Double Dad,5.6,1,1,2021,103
+average,Romantic comedy,5.5,English,8/29/2019,94,romantic,Falling Inn Love,5.6,1,8,2019,97
+average,Thriller,5.5,English,9/28/2018,117,thriller,Hold the Dark,5.6,1,9,2018,125
+average,Romantic comedy,5.5,English,9/3/2020,82,romantic,"Love, Guaranteed",5.6,1,9,2020,91
+average,Romance,5.5,Turkish,6/19/2020,82,romantic,One-Way to Tomorrow,5.6,1,6,2020,90
+average,Variety show,5.5,English,10/27/2020,47,variety,Sarah Cooper: Everything's Fine,5.6,1,10,2020,49
+average,Comedy-drama,5.5,English,1/11/2019,94,drama,The Last Laugh,5.6,1,1,2019,98
+average,Romantic drama,5.5,Italian,2/5/2021,105,drama,The Last Paradiso,5.6,1,2,2021,107
+average,Science fiction,5.5,English,12/23/2020,117,science fiction,The Midnight Sky,5.6,1,12,2020,118
+average,Thriller,5.5,Spanish,9/16/2020,94,thriller,The Paramedic,5.6,1,9,2020,94
+average,Comedy,5.5,English,8/21/2020,94,comedy,The Sleepover,5.6,1,8,2020,103
+average,Horror comedy,5.5,English,10/2/2020,82,comedy,Vampires vs. the Bronx,5.6,1,10,2020,86
+average,Documentary,5.5,English,4/14/2021,82,documentary,Why Did You Kill Me?,5.6,1,4,2021,83
+average,Christian musical,5.5,English,3/26/2021,94,musical,A Week Away,5.7,1,3,2021,97
+average,Romantic teen drama,5.5,Italian,3/25/2021,94,drama,Caught by a Wave,5.7,1,3,2021,99
+average,Romantic drama,5.5,English,12/15/2017,94,drama,Christmas Inheritance,5.7,1,12,2017,104
+average,Family,5.5,Spanish,9/11/2020,94,family,Dad Wanted,5.7,1,9,2020,102
+average,Dark comedy,5.5,English,12/8/2017,82,comedy,El Camino Christmas,5.7,1,12,2017,89
+average,Horror,5.5,English,10/18/2019,94,horror,Eli,5.7,1,10,2019,98
+average,Romantic comedy,5.5,Hindi,10/9/2020,117,romantic,Ginny Weds Sunny,5.7,1,10,2020,125
+average,Drama,5.5,English,5/16/2019,82,drama,Good Sam,5.7,1,5,2019,89
+average,Comedy,5.5,English,1/4/2019,94,comedy,Lionheart,5.7,1,1,2019,94
+average,Comedy horror,5.5,English,9/1/2017,94,comedy,Little Evil,5.7,1,9,2017,94
+average,Documentary,5.5,Thai,6/18/2020,82,documentary,One Take,5.7,1,6,2020,85
+average,Documentary,5.5,English,12/12/2018,23,documentary,"Out of Many, One",5.7,1,12,2018,34
+average,Action,5.5,English,7/12/2019,82,action,Point Blank,5.7,1,7,2019,86
+average,Thriller,5.5,Polish,4/14/2021,82,thriller,Prime Time,5.7,1,4,2021,91
+average,Action comedy,5.5,English,5/27/2016,105,comedy,The Do-Over,5.7,1,5,2016,108
+average,Romantic comedy,5.5,English,11/2/2018,94,romantic,The Holiday Calendar,5.7,1,11,2018,95
+average,Psychological thriller,5.5,English,5/14/2021,94,thriller,The Woman in the Window,5.7,1,5,2021,100
+average,Comedy,5.5,English,5/13/2020,82,comedy,The Wrong Missy,5.7,1,5,2020,90
+average,Thriller,5.5,English,2/1/2019,105,thriller,Velvet Buzzsaw,5.7,1,2,2019,112
+average,Comedy,5.5,English,3/12/2021,82,comedy,Yes Day,5.7,1,3,2021,86
+average,Comedy-drama,5.5,Marathi,3/29/2019,117,drama,15 August,5.8,1,3,2019,124
+average,Romantic comedy,5.5,English,12/14/2020,105,romantic,A California Christmas,5.8,1,12,2020,107
+average,Romantic comedy,5.5,English,11/17/2017,82,romantic,A Christmas Prince,5.8,1,11,2017,92
+average,Drama,5.5,English,5/1/2020,117,drama,All Day and a Night,5.8,1,5,2020,121
+average,Drama,5.5,English,11/1/2019,82,drama,American Son,5.8,1,11,2019,90
+average,Biopic,5.5,English,12/16/2016,94,biopic,Barry,5.8,1,12,2016,104
+average,Comedy,5.5,English,4/27/2018,82,comedy,Candy Jar,5.8,1,4,2018,92
+average,Drama,5.5,Hindi,6/5/2020,105,drama,Choked: Paisa Bolta Hai,5.8,1,6,2020,114
+average,Drama,5.5,Hindi,8/21/2020,94,drama,Class of '83,5.8,1,8,2020,98
+average,Science fiction/Thriller,5.5,English,7/27/2018,94,thriller,Extinction,5.8,1,7,2018,95
+average,Romantic comedy,5.5,English,3/30/2018,70,romantic,Happy Anniversary,5.8,1,3,2018,78
+average,Thriller,5.5,English,5/14/2021,105,thriller,I Am All Girls,5.8,1,5,2021,107
+average,Romantic comedy,5.5,English,11/8/2019,82,romantic,Let It Snow,5.8,1,11,2019,92
+average,Mockumentary,5.5,English,10/13/2016,94,other,Mascots,5.8,1,10,2016,95
+average,Romantic comedy,5.5,English,11/5/2020,94,romantic,Operation Christmas Drop,5.8,1,11,2020,96
+average,Comedy-drama,5.5,Hindi,11/30/2018,117,drama,Rajma Chawal,5.8,1,11,2018,118
+average,Romantic comedy,5.5,Portuguese,4/30/2020,94,romantic,Rich in Love,5.8,1,4,2020,105
+average,Satire,5.5,German,4/17/2020,94,other,Rising High,5.8,1,4,2020,94
+average,One-man show,5.5,English,4/28/2017,47,variety,Rodney King,5.8,1,4,2017,52
+average,Romantic comedy-drama,5.5,English,9/7/2018,94,drama,Sierra Burgess Is a Loser,5.8,1,9,2018,105
+average,Dark comedy,5.5,English,4/28/2017,94,comedy,Small Crimes,5.8,1,4,2017,95
+average,Satire,5.5,English,4/29/2016,94,other,Special Correspondents,5.8,1,4,2016,100
+average,Science fiction/Thriller,5.5,English,6/29/2018,94,thriller,TAU,5.8,1,6,2018,97
+average,Comedy,5.5,English,8/24/2018,82,comedy,The After Party,5.8,1,8,2018,89
+average,Comedy/Horror,5.5,English,9/10/2020,94,comedy,The Babysitter: Killer Queen,5.8,1,9,2020,102
+average,Fantasy,5.5,Dutch,12/7/2020,94,adventure,The Claus Family,5.8,1,12,2020,96
+average,Romantic comedy,5.5,English,7/24/2020,129,romantic,The Kissing Booth 2,5.8,1,7,2020,131
+average,Romantic comedy,5.5,English,4/12/2019,82,romantic,The Perfect Date,5.8,1,4,2019,89
+average,Drama,5.5,German,11/11/2020,82,drama,What We Wanted,5.8,1,11,2020,93
+average,Romantic comedy,5.5,Spanish,10/2/2020,105,romantic,You've Got This,5.8,1,10,2020,111
+average,Drama,5.5,English,4/6/2018,70,drama,6 Balloons,5.9,1,4,2018,75
+average,Thriller,5.5,English,1/17/2020,117,thriller,A Fall from Grace,5.9,1,1,2020,120
+average,Sports-drama,5.5,English,4/6/2018,94,drama,Amateur,5.9,1,4,2018,96
+average,Zombie/Heist,5.5,English,5/21/2021,140,other,Army of the Dead,5.9,1,5,2021,148
+average,Psychological horror,5.5,English,11/16/2018,94,horror,Cam,5.9,1,11,2018,94
+average,Mystery,5.5,English,11/15/2019,105,other,Earthquake Bird,5.9,1,11,2019,107
+average,Mockumentary,5.5,English,7/16/2019,23,other,"Frankenstein's Monster's Monster, Frankenstein",5.9,1,7,2019,32
+average,Drama,5.5,English,2/7/2020,94,drama,Horse Girl,5.9,1,2,2020,104
+average,Documentary,5.5,English,9/28/2018,12,documentary,Notes from Dunblane: Lesson from a School Shooting,5.9,1,9,2018,23
+average,Romantic comedy,5.5,Hindi,3/27/2020,105,romantic,Maska,5.9,1,3,2020,111
+average,Thriller,5.5,French,3/27/2020,82,thriller,The Decline,5.9,1,3,2020,83
+average,Documentary,5.5,English,1/1/2021,47,documentary,The Minimalists: Less Is Now,5.9,1,1,2021,53
+average,Comedy-drama,5.5,English,1/12/2018,94,drama,The Polka King,5.9,1,1,2018,95
+average,Musical,5.5,English,12/11/2020,129,musical,The Prom,5.9,1,12,2020,132
+average,Action comedy,5.5,English,11/11/2016,94,comedy,True Memoirs of an International Assassin,5.9,1,11,2016,98
+average,Sports film,5.5,Italian,3/20/2020,105,other,Ultras,5.9,1,3,2020,108
+average,Biopic,5.5,English,4/13/2018,105,biopic,Come Sunday,6,1,4,2018,106
+average,Drama,5.5,Italian,5/4/2018,94,drama,Forgive Us Our Debts,6,1,5,2018,104
+average,Science fiction/Thriller,5.5,English,1/27/2017,82,thriller,iBoy,6,1,1,2017,90
+average,Drama,5.5,Hindi,8/9/2019,105,drama,Lovefucked,6,1,8,2019,106
+average,Drama,5.5,English,3/8/2019,82,drama,Juanita,6,1,3,2019,90
+average,Comedy mystery,5.5,English,6/14/2019,94,comedy,Murder Mystery,6,1,6,2019,97
+average,Superhero,5.5,English,8/14/2020,105,other,Project Power,6,1,8,2020,113
+average,Romantic thriller,5.5,English,10/21/2020,117,romantic,Rebecca,6,1,10,2020,123
+average,Christmas comedy,5.5,English,11/25/2020,105,comedy,The Christmas Chronicles: Part Two,6,1,11,2020,115
+average,Romantic comedy,5.5,English,5/11/2018,94,romantic,The Kissing Booth,6,1,5,2018,105
+average,Romantic comedy,5.5,English,11/16/2018,94,romantic,The Princess Switch,6,1,11,2018,101
+average,Romantic comedy,5.5,English,2/12/2020,94,romantic,To All the Boys: P.S. I Still Love You,6,1,2,2020,102
+average,War-Comedy,5.5,English,5/26/2017,117,comedy,War Machine,6,1,5,2017,122
+average,Action,6.0,English,12/13/2019,117,action,6 Underground,6.1,1,12,2019,128
+average,Comedy,6.0,English,9/20/2019,82,comedy,Between Two Ferns: The Movie,6.1,1,9,2019,82
+average,Drama,6.0,English,3/10/2017,94,drama,Burning Sands,6.1,1,3,2017,102
+average,Documentary,6.0,English,4/28/2017,70,documentary,Casting JonBenet,6.1,1,4,2017,80
+average,Drama,6.0,English,3/17/2017,94,drama,Deidra & Laney Rob a Train,6.1,1,3,2017,94
+average,Family,6.0,English,1/29/2021,117,family,Finding 'Ohana,6.1,1,1,2021,123
+average,Romantic comedy/Holiday,6.0,English,10/28/2020,94,romantic,Holidate,6.1,1,10,2020,104
+average,Adventure-romance,6.0,English,11/1/2019,82,romantic,Holiday in the Wild,6.1,1,11,2019,85
+average,Documentary,6.0,English,5/29/2015,82,documentary,Hot Girls Wanted,6.1,1,5,2015,84
+average,Comedy,6.0,English,8/3/2018,94,comedy,Like Father,6.1,1,8,2018,103
+average,Crime drama,6.0,English,3/13/2020,94,drama,Lost Girls,6.1,1,3,2020,95
+average,Comedy,6.0,English,8/2/2019,94,comedy,Otherhood,6.1,1,8,2019,100
+average,Adventure,6.0,English,3/18/2016,82,adventure,Pee-wee's Big Holiday,6.1,1,3,2016,89
+average,Crime drama,6.0,French,10/30/2020,105,drama,Rogue City,6.1,1,10,2020,116
+average,Biopic,6.0,English,4/17/2020,117,biopic,Sergio,6.1,1,4,2020,118
+average,Drama,6.0,Turkish,1/8/2021,94,drama,Stuck Apart,6.1,1,1,2021,96
+average,Drama,6.0,Indonesian,4/1/2021,105,drama,Tersanjung the Movie,6.1,1,4,2021,114
+average,Western,6.0,Portuguese,11/10/2017,94,western,The Killer,6.1,1,11,2017,99
+average,Romantic comedy,6.0,English,5/22/2020,82,romantic,The Lovebirds,6.1,1,5,2020,87
+average,Biopic,6.0,English,3/24/2017,82,biopic,The Most Hated Woman in America,6.1,1,3,2017,92
+average,Horror-thriller,6.0,English,5/24/2019,82,thriller,The Perfection,6.1,1,5,2019,90
+average,Drama,6.0,Hindi,1/15/2021,94,drama,Tribhanga – Tedhi Medhi Crazy,6.1,1,1,2021,95
+average,Thriller,6.0,Spanish,8/28/2020,94,thriller,Unknown Origins,6.1,1,8,2020,96
+average,Dance comedy,6.0,English,8/7/2020,82,comedy,Work It,6.1,1,8,2020,93
+average,Stop Motion,6.0,English,11/20/2020,35,other,Alien Xmas,6.2,1,11,2020,42
+average,Biopic,6.0,Italian,5/26/2021,82,biopic,Baggio: The Divine Ponytail,6.2,1,5,2021,92
+average,Drama,6.0,Spanish,1/29/2021,105,drama,Below Zero,6.2,1,1,2021,106
+average,Drama,6.0,English,11/6/2020,140,drama,Citation,6.2,1,11,2020,151
+average,Comedy-drama,6.0,Indonesian,8/17/2020,94,drama,Crazy Awesome Teachers,6.2,1,8,2020,101
+average,Comedy,6.0,Turkish,4/9/2021,105,comedy,Have You Ever Seen Fireflies?,6.2,1,4,2021,114
+average,Sports-drama,6.0,English,2/8/2019,82,drama,High Flying Bird,6.2,1,2,2019,90
+average,Thriller,6.0,English,9/27/2019,105,thriller,In the Shadow of the Moon,6.2,1,9,2019,115
+average,Thriller,6.0,French,6/19/2020,82,thriller,Lost Bullet,6.2,1,6,2020,92
+average,Animation,6.0,English,8/14/2020,70,animation,Octonauts & the Caves of Sac Actun,6.2,1,8,2020,72
+average,Thriller,6.0,Spanish,7/24/2020,129,thriller,Offering to the Storm,6.2,1,7,2020,139
+average,Biopic,6.0,English,3/23/2018,94,biopic,Roxanne Roxanne,6.2,1,3,2018,98
+average,Romantic comedy,6.0,English,4/19/2019,82,romantic,Someone Great,6.2,1,4,2019,92
+average,Action comedy,6.0,English,3/6/2020,105,comedy,Spenser Confidential,6.2,1,3,2020,111
+average,Drama,6.0,English,9/14/2018,94,drama,The Land of Steady Habits,6.2,1,9,2018,98
+average,Documentary,6.0,English,4/27/2018,94,documentary,The Rachel Divide,6.2,1,4,2018,104
+average,Documentary,6.0,English,12/1/2017,94,documentary,Voyuer,6.2,1,12,2017,95
+average,Comedy,6.0,English,4/7/2017,82,comedy,Win It All,6.2,1,4,2017,88
+average,Horror/Crime drama,6.0,English,10/20/2017,94,drama,1922,6.3,1,10,2017,102
+average,Documentary,6.0,English/Spanish,5/22/2019,23,documentary,A Tale of Two Kitchens,6.3,1,5,2019,30
+average,Romantic comedy,6.0,English,6/8/2018,94,romantic,Alex Strangelove,6.3,1,6,2018,99
+average,Horror-thriller,6.0,English,10/12/2018,129,thriller,Apostle,6.3,1,10,2018,129
+average,Family film,6.0,English,3/16/2018,82,family,Benji,6.3,1,3,2018,87
+average,Urban fantasy,6.0,English,12/22/2017,117,adventure,Bright,6.3,1,12,2017,117
+average,Drama/Horror,6.0,English,5/18/2018,94,drama,Cargo,6.3,1,5,2018,104
+average,Drama,6.0,English,4/2/2021,105,drama,Concrete Cowboy,6.3,1,4,2021,111
+average,Family/Comedy-drama,6.0,English,6/19/2020,105,drama,Feel the Beat,6.3,1,6,2020,107
+average,Comedy,6.0,Portuguese,3/18/2021,94,comedy,Get the Goat,6.3,1,3,2021,97
+average,Romantic comedy,6.0,French,4/13/2018,94,romantic,I Am Not an Easy Man,6.3,1,4,2018,98
+average,Drama,6.0,Indonesian,1/28/2021,82,drama,June & Kopi,6.3,1,1,2021,90
+average,Drama,6.0,Hindi,4/19/2019,94,drama,Music Teacher,6.3,1,4,2019,101
+average,Documentary,6.0,English,5/26/2021,70,documentary,Nail Bomber: Manhunt,6.3,1,5,2021,72
+average,Drama,6.0,Spanish,11/24/2020,82,drama,Notes for My Son,6.3,1,11,2020,83
+average,Action,6.0,English,1/25/2019,117,action,Polar,6.3,1,1,2019,118
+average,Comedy,6.0,Portuguese,12/21/2018,35,comedy,Porta dos Fundos: The Last Hangover,6.3,1,12,2018,44
+average,War,6.0,English,4/21/2017,105,other,Sand Castle,6.3,1,4,2017,113
+average,Crime thriller,6.0,English,6/9/2017,82,thriller,Shimmer Lake,6.3,1,6,2017,86
+average,Science fiction/Action,6.0,English,12/9/2016,105,science fiction,Spectral,6.3,1,12,2016,108
+average,Teen comedy horror,6.0,English,10/13/2017,82,comedy,The Babysitter,6.3,1,10,2017,85
+average,Science fiction/Drama,6.0,English,3/31/2017,94,drama,The Discovery,6.3,1,3,2017,102
+average,Drama,6.0,Japanese,10/11/2019,140,drama,The Forest of Love,6.3,1,10,2019,151
+average,Comedy-drama,6.0,English,10/18/2019,94,drama,The Laundromat,6.3,1,10,2019,98
+average,Documentary,6.0,English,3/29/2019,82,documentary,The Legend of Cocaine Island,6.3,1,3,2019,87
+average,Crime drama,6.0,English/Japanese,3/9/2018,117,drama,The Outsider,6.3,1,3,2018,120
+average,Thriller,6.0,Korean,4/23/2020,129,thriller,Time to Hunt,6.3,1,4,2020,134
+average,Romantic comedy,6.0,English,2/12/2021,105,romantic,To All the Boys: Always and Forever,6.3,1,2,2021,109
+average,Documentary,6.0,English,8/28/2019,82,documentary,Travis Scott: Look Mom I Can Fly,6.3,1,8,2019,85
+average,Drama,6.0,English,3/27/2020,94,drama,Uncorked,6.3,1,3,2020,103
+average,Documentary,6.0,French,8/5/2020,94,documentary,Anelka: Misunderstood,6.4,1,8,2020,94
+average,Concert Film,6.0,English,12/21/2020,94,music,"Ariana Grande: Excuse Me, I Love You",6.4,1,12,2020,97
+average,Science fiction/Thriller,6.0,English,9/16/2016,82,thriller,ARQ,6.4,1,9,2016,88
+average,Documentary,6.0,English/Spanish,9/25/2019,35,documentary,Birders,6.4,1,9,2019,37
+average,Musical comedy,6.0,Spanish,12/24/2019,105,comedy,Como Caído del Cielo,6.4,1,12,2019,112
+average,Sports-drama,6.0,English,3/30/2018,94,drama,First Match,6.4,1,3,2018,102
+average,Thriller,6.0,English,10/11/2019,94,thriller,Fractured,6.4,1,10,2019,100
+average,Drama,6.0,English,2/16/2018,94,drama,Irreplaceable You,6.4,1,2,2018,96
+average,Romantic comedy,6.0,German,2/14/2020,105,romantic,Isi & Ossi,6.4,1,2,2020,113
+average,Documentary,6.0,English,8/20/2020,12,documentary,John Was Trying to Contact Aliens,6.4,1,8,2020,16
+average,Romantic drama,6.0,Indonesian,2/11/2021,117,drama,Layla Majnun,6.4,1,2,2021,119
+average,Documentary,6.0,English,4/29/2020,94,documentary,Murder to Mercy: The Cyntoia Brown Story,6.4,1,4,2020,97
+average,Documentary,6.0,English,12/13/2014,70,documentary,My Own Man,6.4,1,12,2014,81
+average,Comedy-drama,6.0,English,9/21/2018,94,drama,Nappily Ever After,6.4,1,9,2018,98
+average,Animation/Musical/Adventure,6.0,English,10/23/2020,94,animation,Over the Moon,6.4,1,10,2020,95
+average,Drama,6.0,French,10/12/2019,94,drama,Street Flow,6.4,1,10,2019,96
+average,Documentary,6.0,English,,105,documentary,Strong Island,6.4,1,,,107
+average,Animation / Musicial,6.0,English,9/27/2019,35,animation,Sturgill Simpson Presents: Sound & Fury,6.4,1,9,2019,41
+average,Documentary,6.0,English,3/16/2018,82,documentary,Take Your Pills,6.4,1,3,2018,87
+average,Comedy-drama,6.0,Indonesian,1/14/2021,94,drama,The Heartbreak Club,6.4,1,1,2021,101
+average,Documentary,6.0,English,5/5/2017,94,documentary,The Mars Generation,6.4,1,5,2017,97
+average,Thriller,6.0,Spanish,3/25/2020,94,thriller,The Occupant,6.4,1,3,2020,103
+average,Animation/Comedy/Adventure,6.0,English,4/22/2020,82,comedy,The Willoughbys,6.4,1,4,2020,90
+average,Action-thriller,6.0,English,3/13/2019,117,thriller,Triple Frontier,6.4,1,3,2019,125
+average,Documentary,6.0,Spanish/Catalan,9/28/2018,105,documentary,Two Catalonias,6.4,1,9,2018,116
+average,Drama,6.0,English,3/8/2019,94,drama,Walk. Ride. Rodeo.,6.4,1,3,2019,99
+average,Action thriller,6.0,English,10/20/2017,82,thriller,Wheelman,6.4,1,10,2017,82
+average,Romantic comedy,6.0,English,2/9/2018,94,romantic,When We First Met,6.4,1,2,2018,97
+average,Documentary,6.0,English/Spanish,10/28/2019,23,documentary,A 3 Minute Hug,6.5,1,10,2019,28
+average,Romance,6.0,English,2/28/2020,105,romantic,All the Bright Places,6.5,1,2,2020,108
+average,Drama,6.0,English,8/28/2020,82,drama,All Together Now,6.5,1,8,2020,93
+average,Anime/Science fiction,6.0,Japanese,3/19/2020,70,science fiction,Altered Carbon: Resleeved,6.5,1,3,2020,74
+average,Documentary,6.0,French,3/21/2019,58,documentary,Antoine Griezmann: The Making of a Legend,6.5,1,3,2019,60
+average,Animation / Short,6.0,English,12/11/2020,0,animation,Canvas,6.5,1,12,2020,9
+average,Documentary,6.0,English,4/17/2021,12,documentary,Chadwick Boseman: Portrait of an Artist,6.5,1,4,2021,21
+average,Comedy,6.0,Hindi,5/31/2019,94,comedy,Chopsticks,6.5,1,5,2019,100
+average,War drama,6.0,English,6/12/2020,152,drama,Da 5 Bloods,6.5,1,6,2020,155
+average,Documentary,6.0,English,4/7/2021,47,documentary,Dolly Parton: A MusiCares Tribute,6.5,1,4,2021,55
+average,Musical comedy,6.0,English,6/26/2020,117,comedy,Eurovision Song Contest: The Story of Fire Saga,6.5,1,6,2020,123
+average,Horror thriller,6.0,English,9/29/2017,94,thriller,Gerald's Game,6.5,1,9,2017,103
+average,Thriller,6.0,English,10/30/2020,82,thriller,His House,6.5,1,10,2020,93
+average,Family/Christmas musical,6.0,English,11/13/2020,117,family,Jingle Jangle: A Christmas Journey,6.5,1,11,2020,119
+average,Documentary,6.0,English/Swedish,6/14/2019,35,documentary,Life Overtakes Me,6.5,1,6,2019,40
+average,Drama,6.0,Hindi,6/15/2018,117,drama,Lust Stories,6.5,1,6,2018,120
+average,Drama,6.0,English,5/7/2021,94,drama,Monster,6.5,1,5,2021,98
+average,Adventure,6.0,English,12/7/2018,94,adventure,Mowgli: Legend of the Jungle,6.5,1,12,2018,104
+average,Drama,6.0,Spanish,6/24/2020,82,drama,Nobody Knows I'm Here,6.5,1,6,2020,91
+average,Documentary,6.0,English,6/23/2017,94,documentary,Nobody Speak: Trials of the Free Press,6.5,1,6,2017,95
+average,Science fiction thriller,6.0,French,5/12/2021,94,thriller,Oxygen,6.5,1,5,2021,101
+average,Romantic comedy,6.0,English,6/15/2018,94,romantic,Set It Up,6.5,1,6,2018,105
+average,Comedy,6.0,English,7/28/2017,82,comedy,The Incredible Jessica James,6.5,1,7,2017,83
+average,Drama,6.0,English/Taiwanese/Mandarin,4/10/2020,82,drama,Tigertail,6.5,1,4,2020,91
+average,Romance,6.0,English,4/21/2017,82,romantic,Tramps,6.5,1,4,2017,83
+average,Drama / Short,6.0,English,1/20/2020,12,drama,What Did Jack Do?,6.5,1,1,2020,17
+average,Hidden-camera prank comedy,6.5,English,3/26/2021,82,comedy,Bad Trip,6.6,1,3,2021,86
+average,Psychological thriller,6.5,English,12/21/2018,117,thriller,Bird Box,6.6,1,12,2018,124
+average,Horror,6.5,Hindi,6/24/2020,94,horror,Bulbbul,6.6,1,6,2020,94
+average,Romantic comedy,6.5,Spanish,2/26/2021,94,romantic,Crazy About Her,6.6,1,2,2021,102
+average,Romance,6.5,Spanish,6/7/2019,117,romantic,Elisa & Marcela,6.6,1,6,2019,118
+average,Documentary,6.5,English,8/19/2016,70,documentary,I'll Sleep When I'm Dead,6.6,1,8,2016,79
+average,Psychological thriller,6.5,English,9/4/2020,129,thriller,I'm Thinking of Ending Things,6.6,1,9,2020,134
+average,Documentary,6.5,English,10/25/2019,117,documentary,It Takes a Lunatic,6.6,1,10,2019,126
+average,Drama,6.5,Hindi,5/7/2021,94,drama,Milestone,6.6,1,5,2021,98
+average,Documentary,6.5,English,6/29/2018,82,documentary,Recovery Boys,6.6,1,6,2018,89
+average,Documentary,6.5,English,12/7/2018,47,documentary,ReMastered: Who Killed Jam Master Jay?,6.6,1,12,2018,58
+average,Documentary,6.5,English,11/23/2020,82,documentary,Shawn Mendes: In Wonder,6.6,1,11,2020,83
+average,Science fiction,6.5,Korean,2/5/2021,129,science fiction,Space Sweepers,6.6,1,2,2021,136
+average,Documentary,6.5,English,12/7/2018,94,documentary,The American Meme,6.6,1,12,2018,98
+average,Spy thriller,6.5,English,9/14/2018,105,thriller,The Angel,6.6,1,9,2018,114
+average,Crime drama,6.5,Spanish,8/20/2020,94,drama,The Crimes That Bind,6.6,1,8,2020,99
+average,Spy thriller,6.5,English,7/31/2019,129,thriller,The Red Sea Diving Resort,6.6,1,7,2019,130
+average,Documentary,6.5,English,1/15/2021,23,documentary,What Would Sophia Loren Do?,6.6,1,1,2021,32
+average,Anime/Fantasy,6.5,Japanese,6/18/2020,94,animation,A Whisker Away,6.7,1,6,2020,104
+average,Drama,6.5,Hindi,4/16/2021,140,drama,Ajeeb Daastaans,6.7,1,4,2021,142
+average,Animated musical comedy,6.5,English,4/16/2021,82,comedy,Arlo the Alligator Boy,6.7,1,4,2021,92
+average,Documentary,6.5,English,11/20/2019,82,documentary,"Bikram: Yogi, Guru, Predator",6.7,1,11,2019,86
+average,Anime/Science fiction,6.5,Japanese,5/20/2017,105,science fiction,Blame!,6.7,1,5,2017,106
+average,Drama,6.5,English,5/27/2021,94,drama,Blue Miracle,6.7,1,5,2021,95
+average,Documentary,6.5,English,6/16/2017,82,documentary,CounterPunch,6.7,1,6,2017,91
+average,Documentary,6.5,English,1/11/2021,82,documentary,"Crack: Cocaine, Corruption & Conspiracy",6.7,1,1,2021,89
+average,Action,6.5,English,4/24/2020,117,action,Extraction,6.7,1,4,2020,117
+average,Documentary,6.5,English,12/11/2020,82,documentary,Giving Voice,6.7,1,12,2020,90
+average,Drama,6.5,English,11/24/2020,117,drama,Hillbilly Elegy,6.7,1,11,2020,117
+average,Documentary,6.5,Thia/English,9/15/2020,70,documentary,Hope Frozen: A Quest to Live Twice,6.7,1,9,2020,80
+average,Drama,6.5,English,2/3/2017,82,drama,Imperial Dreams,6.7,1,2,2017,87
+average,Comedy,6.5,Portuguese,12/3/2020,94,comedy,Just Another Christmas,6.7,1,12,2020,101
+average,Documentary,6.5,Japanese,10/28/2019,12,documentary,Little Miss Sumo,6.7,1,10,2019,19
+average,Romantic drama,6.5,English,2/5/2021,105,drama,Malcolm & Marie,6.7,1,2,2021,106
+average,Variety Show,6.5,English,2/7/2017,47,variety,"Michael Bolton's Big, Sexy, Valentine's Day Special",6.7,1,2,2017,54
+average,Drama,6.5,English,3/3/2021,105,drama,Moxie,6.7,1,3,2021,111
+average,Drama,6.5,Korean,4/9/2021,129,drama,Night in Paradise,6.7,1,4,2021,132
+average,Drama,6.5,Turkish,3/12/2021,94,drama,Paper Lives,6.7,1,3,2021,97
+average,Documentary,6.5,Spanish,7/10/2019,105,documentary,Parchis: The Documentary,6.7,1,7,2019,106
+average,Comedy-drama,6.5,English,7/29/2016,105,drama,Tallulah,6.7,1,7,2016,111
+average,Superhero/Action,6.5,English,7/10/2020,117,action,The Old Guard,6.7,1,7,2020,124
+average,Documentary,6.5,English,,105,documentary,Tony Robbins: I Am Not Your Guru,6.7,1,,,116
+average,Drama,6.5,Hindi,10/18/2019,105,drama,Upstarts,6.7,1,10,2019,112
+average,Drama,6.5,English,10/10/2018,140,drama,22 July,6.8,1,10,2018,144
+average,Drama,6.5,Spanish,10/28/2016,70,drama,7 años,6.8,1,10,2016,76
+average,Biographical/Comedy,6.5,English,1/26/2018,94,comedy,A Futile and Stupid Gesture,6.8,1,1,2018,101
+average,Documentary,6.5,Spanish,3/20/2020,82,documentary,A Life of Speed: The Juan Manuel Fangio Story,6.8,1,3,2020,92
+average,Documentary,6.5,English,9/21/2020,12,documentary,A Love Song for Latasha,6.8,1,9,2020,19
+average,Documentary,6.5,English/Mandarin,5/3/2019,35,documentary,All in My Family,6.8,1,5,2019,39
+average,Romantic comedy,6.5,English,5/31/2019,94,romantic,Always Be My Maybe,6.8,1,5,2019,102
+average,Documentary,6.5,English,5/6/2020,82,documentary,Becoming,6.8,1,5,2020,89
+average,Comedy,6.5,Hindi,8/3/2018,94,comedy,Long Live Brij Mohan,6.8,1,8,2018,105
+average,Thriller,6.5,English,6/29/2018,94,thriller,Calibre,6.8,1,6,2018,101
+average,Comedy,6.5,English,12/27/2020,58,comedy,Death to 2020,6.8,1,12,2020,70
+average,Documentary,6.5,French,9/17/2020,94,documentary,GIMS: On the Record,6.8,1,9,2020,96
+average,Documentary,6.5,English,5/11/2020,82,documentary,Have a Good Trip: Adventures in Psychedelics,6.8,1,5,2020,85
+average,Documentary,6.5,English,9/12/2017,35,documentary,Heroin(e),6.8,1,9,2017,39
+average,Documentary,6.5,English,4/20/2018,70,documentary,Mercury 13,6.8,1,4,2018,79
+average,Documentary,6.5,English,11/21/2017,70,documentary,Saving Capitalism,6.8,1,11,2017,73
+average,Drama,6.5,Hindi,10/2/2020,105,drama,Serious Men,6.8,1,10,2020,114
+average,Drama,6.5,English,9/30/2020,117,drama,The Boys in the Band,6.8,1,9,2020,121
+average,Aftershow / Interview,6.5,English,9/30/2020,23,variety,The Boys in the Band: Something Personal,6.8,1,9,2020,28
+average,Drama,6.5,Italian,11/13/2020,94,drama,The Life Ahead,6.8,1,11,2020,95
+average,Drama,6.5,English,11/2/2018,117,drama,The Other Side of the Wind,6.8,1,11,2018,122
+average,Documentary,6.5,Georgian,2/9/2018,12,documentary,The Trader,6.8,1,2,2018,23
+average,Drama,6.5,English,7/14/2017,105,drama,To the Bone,6.8,1,7,2017,107
+average,Documentary,6.5,French,1/6/2021,94,documentary,Tony Parker: The Final Shot,6.8,1,1,2021,98
+average,Thriller,6.5,Hindi,12/24/2020,105,thriller,AK vs AK,6.9,1,12,2020,108
+average,Documentary,6.5,English,9/30/2016,82,documentary,Amanda Knox,6.9,1,9,2016,92
+average,Documentary,6.5,French,10/8/2020,94,documentary,Bigflo & Oil: Hip Hop Frenzy,6.9,1,10,2020,100
+average,Documentary,6.5,English,3/1/2021,94,documentary,Biggie: I Got a Story to Tell,6.9,1,3,2021,97
+average,Animation / Short,6.5,English,12/28/2020,0,animation,Cops and Robbers,6.9,1,12,2020,7
+average,Drama,6.5,English,2/24/2017,94,drama,I Don't Feel at Home in This World Anymore,6.9,1,2,2017,96
+average,Documentary,6.5,Portuguese,5/19/2017,94,documentary,Laerte-se,6.9,1,5,2017,100
+average,Biopic,6.5,English,12/4/2020,129,biopic,Mank,6.9,1,12,2020,132
+average,Romance,6.5,English,9/29/2017,94,romantic,Our Souls at Night,6.9,1,9,2017,103
+average,Historical-epic,6.5,English,11/9/2018,117,other,Outlaw King,6.9,1,11,2018,121
+average,Comedy-drama,6.5,Hindi,3/26/2021,105,drama,Pagglait,6.9,1,3,2021,114
+average,Documentary,6.5,English,10/12/2018,47,documentary,ReMastered: Who Shot the Sheriff?,6.9,1,10,2018,57
+average,Documentary,6.5,English,2/9/2018,94,documentary,Seeing Allred,6.9,1,2,2018,95
+average,Documentary,6.5,English,6/3/2020,82,documentary,Spelling the Dream,6.9,1,6,2020,83
+average,Documentary,6.5,English,7/10/2020,12,documentary,The Claudia Kishi Club,6.9,1,7,2020,17
+average,Romance,6.5,English,5/1/2020,94,romantic,The Half of It,6.9,1,5,2020,105
+average,Crime drama,6.5,English,3/29/2019,129,drama,The Highwaymen,6.9,1,3,2019,131
+average,Comedy / Musical,6.5,English,5/23/2019,23,comedy,The Lonely Island Presents: The Unauthorized Bash Brothers Experience,6.9,1,5,2019,30
+average,Comedy-drama,6.5,English,10/13/2017,105,drama,The Meyerowitz Stories (New and Selected),6.9,1,10,2017,112
+average,Documentary,6.5,English,10/12/2018,82,documentary,Feminists: What Were They Thinking?,7,1,10,2018,86
+average,Documentary,6.5,English,9/22/2017,94,documentary,Gaga: Five Foot Two,7,1,9,2017,100
+average,Aftershow / Interview,6.5,English,11/3/2020,12,variety,I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuaron,7,1,11,2020,14
+average,Documentary,6.5,English,10/13/2017,105,documentary,Kingdom of Us,7,1,10,2017,109
+average,Documentary,6.5,Spanish,11/20/2019,23,documentary,"Lorena, Light-Footed Woman",7,1,11,2019,28
+average,Documentary,6.5,Spanish,9/15/2019,58,documentary,Los Tigres del Norte at Folsom Prison,7,1,9,2019,64
+average,Drama,6.5,English,12/18/2020,94,drama,Ma Rainey's Black Bottom,7,1,12,2020,94
+average,Aftershow / Interview,6.5,English,12/18/2020,23,variety,Ma Rainey's Black Bottom: A Legacy Brought to Screen,7,1,12,2020,31
+average,Documentary,6.5,English,3/17/2021,94,documentary,Operation Varsity Blues: The College Admissions Scandal,7,1,3,2021,99
+average,Documentary,6.5,English,2/23/2021,105,documentary,Pele,7,1,2,2021,108
+average,Documentary,6.5,English,4/26/2019,47,documentary,ReMastered: Devil at the Crossroads,7,1,4,2019,48
+average,Documentary,6.5,English,5/17/2019,82,documentary,ReMastered: The Lion's Share,7,1,5,2019,84
+average,Documentary,6.5,English,3/22/2019,58,documentary,ReMastered: The Miami Showband Massacre,7,1,3,2019,70
+average,Documentary,6.5,English,9/1/2017,23,documentary,Resurface,7,1,9,2017,27
+average,Animation / Comedy,6.5,English,8/9/2019,35,comedy,Rocko's Modern Life: Static Cling,7,1,8,2019,45
+average,Comedy,6.5,Italian,12/9/2020,117,comedy,Rose Island,7,1,12,2020,117
+average,Christmas/Fantasy/Adventure/Comedy,6.5,English,11/22/2018,94,comedy,The Christmas Chronicles,7,1,11,2018,104
+average,Biopic,6.5,English,3/22/2019,105,biopic,The Dirt,7,1,3,2019,108
+average,Action-thriller,6.5,Indonesian,10/19/2018,117,thriller,The Night Comes for Us,7,1,10,2018,121
+high,Aftershow / Interview,7.0,English,1/26/2017,35,variety,13th: A Conversation with Oprah Winfrey & Ava DuVernay,7.1,1,1,2017,36
+high,Animation,7.0,English,11/30/2018,23,animation,Angela's Christmas,7.1,1,11,2018,30
+high,Animation,7.0,English,12/1/2020,47,animation,Angela's Christmas Wish,7.1,1,12,2020,47
+high,Drama,7.0,English,6/19/2019,105,drama,Beats,7.1,1,6,2019,110
+high,Documentary,7.0,English,4/22/2020,82,documentary,Circus of Books,7.1,1,4,2020,92
+high,Documentary,7.0,English,11/27/2020,70,documentary,Dance Dreams: Hot Chocolate Nutcracker,7.1,1,11,2020,80
+high,Mentalism special,7.0,English,10/19/2018,47,other,Derren Brown: Sacrifice,7.1,1,10,2018,49
+high,Documentary,7.0,Spanish,12/27/2019,70,documentary,El Pepe: A Supreme Life,7.1,1,12,2019,73
+high,Documentary,7.0,English,5/4/2018,35,documentary,End Game,7.1,1,5,2018,40
+high,Documentary,7.0,English,9/10/2019,94,documentary,Evelyn,7.1,1,9,2019,96
+high,Crime drama,7.0,Dutch,5/14/2021,105,drama,Ferry,7.1,1,5,2021,106
+high,Documentary,7.0,English,4/20/2019,94,documentary,Grass Is Greener,7.1,1,4,2019,97
+high,Documentary,7.0,Spanish,10/27/2020,94,documentary,Guillermo Vilas: Settling the Score,7.1,1,10,2020,94
+high,Documentary,7.0,English,5/26/2017,70,documentary,Joshua: Teenager vs. Superpower,7.1,1,5,2017,78
+high,Documentary,7.0,English,9/18/2015,70,documentary,Keith Richards: Under the Influence,7.1,1,9,2015,81
+high,Documentary,7.0,English,5/1/2019,82,documentary,Knock Down the House,7.1,1,5,2019,87
+high,One-man show,7.0,English,11/13/2018,82,variety,Loudon Wainwright III: Surviving Twin,7.1,1,11,2018,91
+high,Documentary,7.0,English,3/18/2016,82,documentary,My Beautiful Broken Brain,7.1,1,3,2016,91
+high,Documentary,7.0,English,10/20/2017,94,documentary,One of Us,7.1,1,10,2017,95
+high,Drama,7.0,English,1/7/2021,117,drama,Pieces of a Woman,7.1,1,1,2021,126
+high,Documentary,7.0,English,4/6/2018,23,documentary,"Ram Dass, Going Home",7.1,1,4,2018,31
+high,Documentary,7.0,English,11/2/2018,47,documentary,ReMastered: Tricky Dick & the Man in Black,7.1,1,11,2018,58
+high,Documentary,7.0,Bengali,10/15/2020,35,documentary,Rooting for Roona,7.1,1,10,2020,41
+high,Psychological thriller,7.0,English,9/16/2020,129,thriller,The Devil All the Time,7.1,1,9,2020,138
+high,Drama,7.0,English,1/29/2021,105,drama,The Dig,7.1,1,1,2021,112
+high,Documentary,7.0,English,7/24/2019,105,documentary,The Great Hack,7.1,1,7,2019,114
+high,Drama,7.0,English,1/22/2021,117,drama,The White Tiger,7.1,1,1,2021,125
+high,Romantic comedy,7.0,English,8/17/2018,94,romantic,To All the Boys I've Loved Before,7.1,1,8,2018,99
+high,Documentary,7.0,English,9/30/2020,82,documentary,American Murder: The Family Next Door,7.2,1,9,2020,82
+high,Documentary,7.0,English,9/23/2016,94,documentary,Audrie & Daisy,7.2,1,9,2016,98
+high,Drama,7.0,Khmer/English/French,9/15/2017,129,drama,First They Killed My Father,7.2,1,9,2017,136
+high,Documentary,7.0,English,1/18/2019,94,documentary,Fyre: The Greatest Party That Never Happened,7.2,1,1,2019,97
+high,Documentary,7.0,English,10/28/2016,105,documentary,Into the Inferno,7.2,1,10,2016,107
+high,Documentary,7.0,English,4/10/2020,82,documentary,LA Originals,7.2,1,4,2020,92
+high,Documentary,7.0,English/Hindi,3/8/2018,35,documentary,Ladies First,7.2,1,3,2018,39
+high,Romantic comedy,7.0,Hindi,2/14/2018,129,romantic,Love per Square Foot,7.2,1,2,2018,133
+high,Drama-Comedy,7.0,English,2/22/2019,82,drama,Paddleton,7.2,1,2,2019,89
+high,Drama,7.0,English,10/5/2018,117,drama,Private Life,7.2,1,10,2018,124
+high,Coming-of-age comedy-drama,7.0,Spanish,10/18/2019,94,drama,Seventeen,7.2,1,10,2019,99
+high,Drama,7.0,Tamil,5/1/2018,94,drama,Sometimes,7.2,1,5,2018,101
+high,Crime drama,7.0,Hindi,1/18/2019,94,drama,Soni,7.2,1,1,2019,97
+high,Comedy,7.0,English,10/9/2020,117,comedy,The 40-Year-Old Version,7.2,1,10,2020,124
+high,Drama,7.0,Marathi,4/30/2021,129,drama,The Disciple,7.2,1,4,2021,129
+high,Documentary,7.0,Portuguese,6/19/2019,117,documentary,The Edge of Democracy,7.2,1,6,2019,121
+high,Historical drama,7.0,English,11/1/2019,129,drama,The King,7.2,1,11,2019,140
+high,Making-of,7.0,English,10/29/2019,12,other,The Road to El Camino: A Breaking Bad Movie,7.2,1,10,2019,13
+high,War,7.0,English,10/7/2016,105,other,The Siege of Jadotville,7.2,1,10,2016,108
+high,Documentary,7.0,English,8/10/2018,0,documentary,Zion,7.2,1,8,2018,11
+high,Biopic,7.0,English,10/25/2019,117,biopic,Dolemite Is My Name,7.3,1,10,2019,118
+high,Crime drama,7.0,English,10/11/2019,117,drama,El Camino: A Breaking Bad Movie,7.3,1,10,2019,121
+high,Documentary,7.0,English,9/13/2016,23,documentary,Extremis,7.3,1,9,2016,24
+high,Documentary,7.0,English,7/17/2020,94,documentary,Father Soldier Son,7.3,1,7,2020,100
+high,Documentary,7.0,English,5/12/2017,94,documentary,Get Me Roger Stone,7.3,1,5,2017,101
+high,Drama,7.0,Spanish,5/27/2020,94,drama,I'm No Longer Here,7.3,1,5,2020,105
+high,Documentary,7.0,Spanish/English,7/8/2020,94,documentary,Mucho Mucho Amor: The Legend of Walter Mercado,7.3,1,7,2020,96
+high,Animation,7.0,English,10/13/2020,47,animation,Octonauts & the Great Barrier Reef,7.3,1,10,2020,47
+high,Action-adventure,7.0,English/Korean,6/28/2017,117,adventure,Okja,7.3,1,6,2017,121
+high,Crime drama,7.0,Italian,9/12/2018,94,drama,On My Skin,7.3,1,9,2018,100
+high,Thriller,7.0,Hindi,7/31/2020,140,thriller,Raat Akeli Hai,7.3,1,7,2020,149
+high,Documentary,7.0,English/Spanish,1/11/2019,58,documentary,ReMastered: Massacre at the Stadium,7.3,1,1,2019,64
+high,Documentary,7.0,English,2/8/2019,58,documentary,ReMastered: The Two Killings of Sam Cooke,7.3,1,2,2019,64
+high,Documentary,7.0,English/Arabic,10/28/2020,105,documentary,Secrets of the Saqqara Tomb,7.3,1,10,2020,114
+high,Animation / Short,7.0,English,3/8/2020,12,animation,Sitara: Let Girls Dream,7.3,1,3,2020,15
+high,Documentary,7.0,English/Mandarin,10/14/2016,70,documentary,Sky Ladder: The Art of Cai Guo-Qiang,7.3,1,10,2016,79
+high,Documentary,7.0,English/Russian,4/29/2016,82,documentary,Team Foxcatcher,7.3,1,4,2016,90
+high,Western,7.0,English,11/16/2018,129,western,The Ballad of Buster Scruggs,7.3,1,11,2018,132
+high,Documentary,7.0,English,10/6/2017,94,documentary,The Death and Life of Marsha P. Johnson,7.3,1,10,2017,105
+high,Comedy-drama,7.0,English,6/24/2016,94,drama,The Fundamentals of Caring,7.3,1,6,2016,97
+high,Documentary,7.0,English,5/22/2015,82,documentary,The Other One: The Long Strange Trip of Bob Weir,7.3,1,5,2015,83
+high,Documentary,7.0,English,8/21/2019,105,documentary,American Factory,7.4,1,8,2019,110
+high,Documentary,7.0,English,11/1/2019,35,documentary,Fire in Paradise,7.4,1,11,2019,39
+high,Documentary,7.0,English,9/29/2017,35,documentary,Long Shot,7.4,1,9,2017,40
+high,Documentary,7.0,English,1/31/2020,82,documentary,Miss Americana,7.4,1,1,2020,85
+high,Documentary,7.0,English/Hindi,2/12/2019,23,documentary,Period. End of Sentence.,7.4,1,2,2019,26
+high,Concert Film,7.0,English,11/25/2020,82,music,Shawn Mendes: Live in Concert,7.4,1,11,2020,87
+high,Documentary,7.0,English,10/26/2018,94,documentary,Shirkers,7.4,1,10,2018,97
+high,Documentary,7.0,English,6/7/2019,117,documentary,The Black Godfather,7.4,1,6,2019,118
+high,Aftershow / Interview,7.0,English,11/27/2019,12,variety,The Irishman: In Conversation,7.4,1,11,2019,23
+high,Documentary,7.0,English,7/29/2020,35,documentary,The Speed Cubers,7.4,1,7,2020,40
+high,Documentary,7.0,English,11/2/2018,94,documentary,They'll Love Me When I'm Dead,7.4,1,11,2018,98
+high,Documentary,7.0,English,7/17/2015,70,documentary,Tig,7.4,1,7,2015,80
+high,Concert Film,7.0,English,11/22/2017,105,music,"Barbra: The Music, The Mem'ries, The Magic!",7.5,1,11,2017,108
+high,Documentary,7.0,Korean,10/14/2020,70,documentary,Blackpink: Light Up the Sky,7.5,1,10,2020,79
+high,Documentary,7.0,English,9/7/2018,70,documentary,City of Joy,7.5,1,9,2018,74
+high,Documentary,7.0,English,10/2/2020,82,documentary,Dick Johnson Is Dead,7.5,1,10,2020,90
+high,Documentary,7.0,English,4/17/2019,129,documentary,Homecoming: A Film by Beyonce,7.5,1,4,2019,137
+high,Animation / Science Fiction,7.0,English,8/16/2019,70,science fiction,Invader Zim: Enter the Florpus,7.5,1,8,2019,71
+high,Documentary,7.0,English,,94,documentary,Joan Didion: The Center Will Not Hold,7.5,1,,,98
+high,Variety show,7.0,English,12/24/2019,58,variety,John Mulaney & the Sack Lunch Bunch,7.5,1,12,2019,70
+high,Documentary,7.0,English,9/13/2018,94,documentary,Reversing Roe,7.5,1,9,2018,99
+high,Documentary,7.0,English,,35,documentary,The White Helmets,7.5,1,,,40
+high,Documentary,7.5,English,6/24/2020,94,documentary,Athlete A,7.6,1,6,2020,104
+high,Anthology/Dark comedy,7.5,Hindi,11/12/2020,140,comedy,Ludo,7.6,1,11,2020,149
+high,Documentary,7.5,English,9/21/2018,117,documentary,Quincy,7.6,1,9,2018,124
+high,Documentary,7.5,English,6/12/2019,140,documentary,Rolling Thunder Revue: A bob Dylan Story by Martin Scorsere,7.6,1,6,2019,144
+high,Documentary,7.5,English,10/18/2019,82,documentary,Tell Me Who I Am,7.6,1,10,2019,85
+high,Documentary,7.5,English,7/27/2018,94,documentary,The Bleeding Edge,7.6,1,7,2018,100
+high,Documentary,7.5,English,9/9/2020,94,documentary,The Social Dilemma,7.6,1,9,2020,94
+high,Drama,7.5,English,12/20/2019,117,drama,The Two Popes,7.6,1,12,2019,125
+high,Documentary,7.5,English,6/26/2015,82,documentary,"What Happened, Miss Simone?",7.6,1,6,2015,84
+high,Drama,7.5,Hindi,2/21/2020,117,drama,Yeh Ballet,7.6,1,2,2020,117
+high,Musical / Short,7.5,English,6/27/2019,12,musical,Anima,7.7,1,6,2019,15
+high,War drama,7.5,English/Akan,10/16/2015,129,drama,Beasts of No Nation,7.7,1,10,2015,136
+high,Documentary,7.5,English,4/19/2019,70,documentary,Brene Brown: The Call to Courage,7.7,1,4,2019,76
+high,Documentary,7.5,English,3/25/2020,105,documentary,Crip Camp: A Disability Revolution,7.7,1,3,2020,108
+high,Documentary,7.5,English,11/17/2017,94,documentary,"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Cliffton ",7.7,1,11,2017,94
+high,Concert Film,7.5,English,10/12/2016,82,music,Justin Timberlake + The Tennessee Kids,7.7,1,10,2016,90
+high,Making-of,7.5,Spanish,2/11/2020,70,other,Road to Roma,7.7,1,2,2020,72
+high,Drama,7.5,Spanish,12/14/2018,129,drama,Roma,7.7,1,12,2018,135
+high,Animation / Short,7.5,English,11/20/2020,12,animation,If Anything Happens I Love You,7.8,1,11,2020,12
+high,Crime drama,7.5,English,11/27/2019,199,drama,The Irishman,7.8,1,11,2019,209
+high,Drama,7.5,English,10/16/2020,129,drama,The Trial of the Chicago 7,7.8,1,10,2020,130
+high,Documentary,7.5,English,4/29/2020,82,documentary,A Secret Love,7.9,1,4,2020,82
+high,Documentary,7.5,English,8/4/2017,117,documentary,Icarus,7.9,1,8,2017,120
+high,Drama,7.5,English,12/6/2019,129,drama,Marriage Story,7.9,1,12,2019,136
+high,Documentary,7.5,English,11/4/2016,105,documentary,The Ivory Game,7.9,1,11,2016,112
+high,Documentary,7.5,English,12/21/2018,94,documentary,Struggle: The Life and Lost Art of Szukaiski,8,1,12,2018,105
+high,Documentary,8.0,English,7/14/2017,82,documentary,Chasing Coral,8.1,1,7,2017,89
+high,Documentary,8.0,English,9/7/2020,82,documentary,My Octopus Teacher,8.1,1,9,2020,85
+high,Documentary,8.0,English,8/26/2020,105,documentary,Rising Phoenix,8.1,1,8,2020,106
+high,Documentary,8.0,English,10/7/2016,94,documentary,13th,8.2,1,10,2016,100
+high,Documentary,8.0,English,6/19/2020,105,documentary,Disclosure: Trans Lives on Screen,8.2,1,6,2020,107
+high,Animation/Christmas/Comedy/Adventure,8.0,English,11/15/2019,94,comedy,Klaus,8.2,1,11,2019,97
+high,Documentary,8.0,English,3/24/2021,82,documentary,Seaspiracy,8.2,1,3,2021,89
+high,Documentary,8.0,Spanish,10/14/2020,105,documentary,The Three Deaths of Marisela Escobedo,8.2,1,10,2020,109
+high,Documentary,8.0,English,11/24/2017,105,documentary,Cuba and the Cameraman,8.3,1,11,2017,114
+high,Documentary,8.0,English,10/23/2019,47,documentary,Dancing with the Birds,8.3,1,10,2019,51
+high,Concert Film,8.0,English,5/20/2020,82,music,Ben Platt: Live from Radio City Music Hall,8.4,1,5,2020,85
+high,Concert Film,8.0,English,12/31/2018,117,music,Taylor Swift: Reputation Stadium Tour,8.4,1,12,2018,125
+high,Documentary,8.0,English/Ukranian/Russian,10/9/2015,82,documentary,Winter on Fire: Ukraine's Fight for Freedom,8.4,1,10,2015,91
+high,One-man show,8.0,English,12/16/2018,152,variety,Springsteen on Broadway,8.5,1,12,2018,153
+high,Documentary,8.5,Portuguese,12/8/2020,82,documentary,Emicida: AmarElo - It's All For Yesterday,8.6,1,12,2020,89
+high,Documentary,8.5,English,10/4/2020,82,documentary,David Attenborough: A Life on Our Planet,9,1,10,2020,83
