@@ -132,3 +132,124 @@ async function renderSecondChart() {
 
     document.getElementById("chart").appendChild(svg.node());
 }
+
+
+// third slide
+
+async function renderSecondChart() {
+    // set the dimensions and margins of the graph
+    var margin = {top: 10, right: 30, bottom: 40, left: 50},
+        width = 800 - margin.left - margin.right,
+        height = 400 - margin.top - margin.bottom;
+    
+    // append the svg object to the body of the page
+    var svg = d3.select("#my_dataviz")
+      .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    
+    // Set up the tooltip
+    const tooltip = d3.select("body").append("div")
+      .attr("class", "tooltip")
+      .style("opacity", 0);
+    
+    // Read the data and compute summary statistics for documentaries
+    d3.csv("https://LydiaBrothers.github.io/data/NetflixOriginals.csv").then(function(data) {
+    
+      // Filter the data to only documentaries
+      const parsedData = data
+        .filter(d => d.Genre.includes("Documentary"))
+        .map(d => ({
+          title: d.Title,
+          genre: d.Genre,
+          score: +d["IMDB Score"]
+        }));
+    
+      // Build and Show the Y scale
+      var y = d3.scaleLinear()
+        .domain([0,10])
+        .range([height, 0]);
+      svg.append("g").call(d3.axisLeft(y));
+    
+      // Build and Show the X scale
+      var x = d3.scaleBand()
+        .range([ 0, width ])
+        .domain(["Documentary"])
+        .padding(0.05);     
+      svg.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x))
+        .selectAll("text")
+        .attr("transform", "rotate(-40)")
+        .style("text-anchor", "end");
+    
+      // Features of the histogram
+      var histogram = d3.histogram()
+            .domain(y.domain())
+            .thresholds(y.ticks(20))    
+            .value(d => d);
+    
+      // Compute the binning for documentaries
+      var sumstat = d3.rollups(parsedData, function(d) {   
+          input = d.map(g => g.score);    
+          bins = histogram(input);   
+          return(bins)
+        }, d => d.genre);
+    
+      // What is the biggest number of value in a bin?
+      var maxNum = 0;
+      sumstat.forEach(d => {
+        lengths = d[1].map(a => a.length);
+        longuest = d3.max(lengths);
+        if (longuest > maxNum) { maxNum = longuest }
+      });
+    
+      // The maximum width of a violin must be x.bandwidth = the width dedicated to a group
+      var xNum = d3.scaleLinear()
+        .range([0, x.bandwidth()])
+        .domain([-maxNum,maxNum]);
+    
+      // Add the shape to this svg!
+      svg.selectAll("myViolin")
+        .data(sumstat)
+        .enter()        
+        .append("g")
+          .attr("transform", d => "translate(" + x(d[0]) +" ,0)") 
+        .append("path")
+            .datum(d => d[1])
+            .style("stroke", "none")
+            .style("fill", "grey")
+            .attr("d", d3.area()
+                .x0(xNum(0))
+                .x1(d => xNum(d.length))
+                .y(d => y(d.x0))
+                .curve(d3.curveCatmullRom));
+    
+      // Add individual points with jitter
+      var jitterWidth = 20;
+      svg.selectAll("indPoints")
+        .data(parsedData)
+        .enter()
+        .append("circle")
+          .attr("cx", d => x(d.genre) + x.bandwidth()/2 - Math.random()*jitterWidth)
+          .attr("cy", d => y(d.score))
+          .attr("r", 4)
+          .style("fill", "blue")
+          .attr("stroke", "white")
+          .on("mouseover", function(event, d) {
+            tooltip.transition()
+              .duration(200)
+              .style("opacity", .9);
+            tooltip.html(`Title: ${d.title}<br/>IMDB Score: ${d.score}`)
+              .style("left", (event.pageX + 5) + "px")
+              .style("top", (event.pageY - 28) + "px");
+          })
+          .on("mouseout", function() {
+            tooltip.transition()
+              .duration(500)
+              .style("opacity", 0);
+          });
+    });
+}
