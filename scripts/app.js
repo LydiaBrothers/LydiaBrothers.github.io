@@ -136,7 +136,7 @@ async function renderSecondChart() {
 
 // third slide
 
-async function renderSecondChart() {
+async function renderThirdChart() {
     // set the dimensions and margins of the graph
     var margin = {top: 10, right: 30, bottom: 40, left: 50},
         width = 800 - margin.left - margin.right,
