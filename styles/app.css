@@ -1,0 +1,41 @@
+.bubbles {
+    stroke-width: 2px;
+    stroke: white;
+}
+
+.bubbles:hover {
+    stroke: black;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 100px;
+    height: 80px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+.font-size-lg {
+    font-size: 1.3em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
