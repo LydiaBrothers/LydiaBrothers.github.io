@@ -21,27 +21,26 @@
 <body onload='renderFirstChart()'>
     <div class="text-container">
         <div id="slide-1">
-            <h1>How good are the Netflix Originals released based on their IMDB rating?</h1>
+            <h1>Netflix Originals Quality & Quantity: How good are the Netflix Originals released based on their IMDB rating?</h1>
             
             <ul>
-                <li class="font-size-lg mt-10"><span class="glyphicon glyphicon-info-sign"></span> The average IMDB rating for Netflix Originals is 6.3.
+                <li class="font-size-lg mt-10">The median IMDB rating for Netflix Originals between 2014 and 2021 is 6.35. However, the IMDB rating varies within each genre of movie produced by Netflix.
                 </li>
-                <li class="font-size-lg mt-10"><span class="glyphicon glyphicon-info-sign"></span> However, the IMDB rating varies within each genre of movie produced by Netflix.
+                <li class="font-size-lg mt-10">Are particular genres under/overperforming the average IMDB rating, potentially muddying the overall picture of the quality of the production? 
                 </li>
-                <li class="font-size-lg mt-10"><span class="glyphicon glyphicon-info-sign"></span> Are particular genres pulling up the average IMDB rating? 
+                <li class="font-size-lg mt-10"> We can explore the data below to understand at a high level what kinds of movies Netflix produces that are well liked. 
                 </li>
-                <li class="font-size-lg mt-10"><span class="glyphicon glyphicon-info-sign"/></span> We can explore this data to understand at a more granular level what kinds of movies that Netflix produces that are well liked. 
+                <li class="font-size-lg mt-10"> The vertical axis shows the <b>count of Netflix Originals</b> that premiered between 2014 to 2021. 
+                    The horizontal axis shows the binned <b>IMDB score</b> given to the Netflix Originals in that time frame.
                 </li>
-                <li class="font-size-lg mt-10"><span class="glyphicon glyphicon-info-sign"/></span> The vertical axis shows the
-                    <i>count of Netflix Originals</i> premiered between 2014 to 2021. The horizontal axis shows the binned <i>IMDB score</i> given to the Netflix Originals in that time frame.
-                </li>
-                <li class="font-size-lg mt-30"><span class="glyphicon glyphicon-hand-up"/></span> Try hovering over some bins and you should see the count of Netflix Originals in that bin as well as the range of IMDB scores represented by that bin.
+                <li class="font-size-lg mt-30"> Try <b>hovering</b> over some bins and you'll see the count of Netflix Originals in that bin as well as the range of IMDB scores represented by that bin. 
+                    How do the median IMDB scores vary by genre? Use the <b>drop down menu</b> to investigate.
                     </span></li>
             </ul>
             <br>
             <br>
             <br>
-            <h2>IMDB Score Distribution Histogram</h2>
+            <h2>IMDB Score Distribution Histogram by Genre</h2>
     <!-- <h1>IMDB Score Distribution Histogram</h1> -->
     <div id="dropdown-container"></div>
     <div id="chart-container">
