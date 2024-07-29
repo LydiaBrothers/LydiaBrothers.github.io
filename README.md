@@ -1,6 +1,4 @@
 # LydiaBrothers.github.io
 
 
-## Testing by adding stufffff
-
-### SHHHHHH
+## CS416 Final Narrative Project by Lydia Brothers
