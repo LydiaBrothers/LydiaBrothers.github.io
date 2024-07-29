@@ -224,7 +224,7 @@ async function renderSecondChart() {
       .attr("id", "slider-container");
 
   sliderContainer.append("label")
-      .text("Select Premiere Year: ");
+      .text("Good Productions premiered between 2014 and... ");
 
   const slider = sliderContainer.append("input")
       .attr("type", "range")
