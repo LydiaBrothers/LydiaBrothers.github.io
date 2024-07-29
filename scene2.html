@@ -6,29 +6,51 @@
     
     <link rel="stylesheet" href="styles/app.css">
     <style>
-        .tooltip {
-            position: absolute;
-            text-align: center;
-            width: 100px;
-            height: auto;
-            padding: 10px;
-            font: 12px sans-serif;
-            background: lightsteelblue;
-            border: 0px;
-            border-radius: 8px;
-            pointer-events: none;
+        body {
+            font-family: Arial, sans-serif;
         }
+        .bar {
+            fill: steelblue;
+        }
+        .axis-label {
+            font-size: 14px;
+        }
+
     </style>
 </head>
 <body onload='renderSecondChart()'>
-<div id="chart"></div>
+    <div class="text-container">
+        <div id="slide-1">
+            
+            <h1>How have the Netflix Originals genres produced changed over time?</h1>
+            <ul>
+                <li class="font-size-lg mt-10"><span class="glyphicon glyphicon-info-sign"></span> From the previous scene, it seems that Netflix Documentaries have been better received than Dramas or Comedies, among other dramas.
+                </li>
+                <li class="font-size-lg mt-10"><span class="glyphicon glyphicon-info-sign"></span> Since we have data from 2014 through 2021, there could be different behavior driving the large number of Documentaries.
+                </li>
+                <li class="font-size-lg mt-10"><span class="glyphicon glyphicon-info-sign"></span> Does the covid era of 2020 have an impact on the movies Netflix released?
+                </li>
+                <li class="font-size-lg mt-10"><span class="glyphicon glyphicon-info-sign"/></span> We can use a bubble chart to see how the genres of the films released varied over time.
+                </li>
+                <li class="font-size-lg mt-10"><span class="glyphicon glyphicon-info-sign"/></span> The size of the bubble indicates the number of films in that genre, the color indicates X.
+                </li>
+                <li class="font-size-lg mt-30"><span class="glyphicon glyphicon-hand-up"/></span> Try hovering over some bins and you should see the count of Netflix Originals in that bin as well as the range of IMDB scores represented by that bin.
+                    </span></li>
+            </ul>
+    <div id="chart-container">
+    <div id="chart"></div>
+    </div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="scripts/app.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.5.1/d3-annotation.min.js"
+integrity="sha512-iBAeBWWWFb8HqSBcrqcz98iIpuVH1la39dEYHtyQ/pGpeCQTQVvLJOWAuhv2Q7JSHp9k7hWA7sGxU3hHJe+tFg=="
+crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-<p>
-    <a class="btn btn-primary btn-s" href="scene3.html" role="button">Next</a>
+<div class="button-container">
     <a class="btn btn-primary btn-s" href="index.html" role="button">Previous</a>
-</p>
+    <a class="btn btn-primary btn-s" href="scene3.html" role="button">Next</a>
+    
+</div>
 </body>
 </html>

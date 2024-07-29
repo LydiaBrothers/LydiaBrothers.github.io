@@ -19,13 +19,44 @@
     </style>
 </head>
 <body onload='renderFirstChart()'>
-    <h1>IMDB Score Distribution Histogram</h1>
+    <div class="text-container">
+        <div id="slide-1">
+            <h1>How good are the Netflix Originals released based on their IMDB rating?</h1>
+            
+            <ul>
+                <li class="font-size-lg mt-10"><span class="glyphicon glyphicon-info-sign"></span> The average IMDB rating for Netflix Originals is 6.3.
+                </li>
+                <li class="font-size-lg mt-10"><span class="glyphicon glyphicon-info-sign"></span> However, the IMDB rating varies within each genre of movie produced by Netflix.
+                </li>
+                <li class="font-size-lg mt-10"><span class="glyphicon glyphicon-info-sign"></span> Are particular genres pulling up the average IMDB rating? 
+                </li>
+                <li class="font-size-lg mt-10"><span class="glyphicon glyphicon-info-sign"/></span> We can explore this data to understand at a more granular level what kinds of movies that Netflix produces that are well liked. 
+                </li>
+                <li class="font-size-lg mt-10"><span class="glyphicon glyphicon-info-sign"/></span> The vertical axis shows the
+                    <i>count of Netflix Originals</i> premiered between 2014 to 2021. The horizontal axis shows the binned <i>IMDB score</i> given to the Netflix Originals in that time frame.
+                </li>
+                <li class="font-size-lg mt-30"><span class="glyphicon glyphicon-hand-up"/></span> Try hovering over some bins and you should see the count of Netflix Originals in that bin as well as the range of IMDB scores represented by that bin.
+                    </span></li>
+            </ul>
+            <br>
+            <br>
+            <br>
+            <h2>IMDB Score Distribution Histogram</h2>
+    <!-- <h1>IMDB Score Distribution Histogram</h1> -->
+    <div id="dropdown-container"></div>
+    <div id="chart-container">
     <div id="chart"></div>
-
+    </div>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="scripts/app.js"></script>
-    <p>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.5.1/d3-annotation.min.js"
+integrity="sha512-iBAeBWWWFb8HqSBcrqcz98iIpuVH1la39dEYHtyQ/pGpeCQTQVvLJOWAuhv2Q7JSHp9k7hWA7sGxU3hHJe+tFg=="
+crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <div class="button-container">
     <a class="btn btn-primary btn-s" href="scene2.html" role="button">Next</a>
-    </p>
+    </div>
 </body>
 </html>
+
+
+
